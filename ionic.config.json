@@ -1,0 +1,8 @@
+{
+  "name": "dreamdico",
+  "app_id": "e78ab9b4",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
